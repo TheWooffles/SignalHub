@@ -14,3 +14,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Averiias/Universal-Si
 ```lua
 loadstring(game:HttpGet("https://pastebin.com/raw/RrKp1cBf"))()
 ```
+```lua
+loadstring(game:HttpGet("https://pastebin.com/raw/xmNwxRDe"))()
+```
