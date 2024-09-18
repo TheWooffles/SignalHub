@@ -1,3 +1,3 @@
 # SignalHub
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheWooffles/Signalhub/main/scriptfov.lua”))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheWooffles/SignalHub/main/FovAimbot.lua"))()
