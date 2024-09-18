@@ -5,3 +5,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/TheWooffles/SignalHub
 ```lua
 loadstring(game:HttpGet("https://pastebin.com/raw/zuQR1mUC"))()
 ```
+```lua
+loadstring(game:HttpGet("https://pastebin.com/raw/zPrH57QL"))()
+```
