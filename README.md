@@ -15,5 +15,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Averiias/Universal-Si
 loadstring(game:HttpGet("https://pastebin.com/raw/RrKp1cBf"))()
 ```
 ```lua
+local fov = 50
+
 loadstring(game:HttpGet("https://pastebin.com/raw/xmNwxRDe"))()
 ```
